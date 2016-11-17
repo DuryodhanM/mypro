@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is C0F6-5205
+
+ Directory of C:\Users\ADMIN\Desktop\MyPro
+
+11/17/2016  07:42 PM    <DIR>          .
+11/17/2016  07:42 PM    <DIR>          ..
+11/17/2016  07:42 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   4,524,425,216 bytes free
